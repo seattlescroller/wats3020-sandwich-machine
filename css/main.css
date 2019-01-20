@@ -1,5 +1,10 @@
 /* CSS for WATS 3020 Sandwich Machine Assignment */
 
+/* background tests */
+.background{
+background: url('/images/sandwich.jpg') 10px
+}
+
 .receipt {
     background: url('../images/paper.jpg') repeat top center;
     width: 300px;
@@ -16,7 +21,7 @@
 .receipt h1{
     text-transform: uppercase;
     text-align: center;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1rem;
 }
 
