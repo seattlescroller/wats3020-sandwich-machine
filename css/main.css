@@ -1,8 +1,8 @@
 /* CSS for WATS 3020 Sandwich Machine Assignment */
 
-/* background tests */
+/* background test */
 .background{
-background: url('/images/sandwich.jpg') 10px
+    background: url('/images/sandwich.jpg');
 }
 
 .receipt {
